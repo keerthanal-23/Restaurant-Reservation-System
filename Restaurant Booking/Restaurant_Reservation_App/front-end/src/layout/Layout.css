@@ -1,0 +1,16 @@
+.blur-behind {
+  backdrop-filter: blur(15px) saturate(90%);
+}
+
+.brand {
+  font-size: 1.5rem;
+}
+
+body {
+  font-family: Consolas, monospace;
+  background-color: rgb(53, 122, 131);
+}
+
+html,body {
+  overflow: auto;
+}
